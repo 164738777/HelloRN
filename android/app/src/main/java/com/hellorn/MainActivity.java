@@ -2,7 +2,7 @@ package com.hellorn;
 
 import android.os.Bundle;
 
-import com.cboy.rn.splashscreen.SplashScreen;
+import org.devio.rn.splashscreen.SplashScreen; // here
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
